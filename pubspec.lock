@@ -36,6 +36,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.2"
+  dart_mssql:
+    dependency: "direct main"
+    description:
+      name: dart_mssql
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.6"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -81,6 +88,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.2"
+  recase:
+    dependency: transitive
+    description:
+      name: recase
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -93,6 +107,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.5.5"
+  sql_recase:
+    dependency: transitive
+    description:
+      name: sql_recase
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.2"
+  sql_result:
+    dependency: transitive
+    description:
+      name: sql_result
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.6"
+  sql_utils:
+    dependency: transitive
+    description:
+      name: sql_utils
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.1"
   stack_trace:
     dependency: transitive
     description:
@@ -114,6 +149,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.4"
+  string_utils:
+    dependency: transitive
+    description:
+      name: string_utils
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.2"
   term_glyph:
     dependency: transitive
     description:
